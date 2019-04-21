@@ -1,0 +1,132 @@
+.header {
+	height: 17%;
+	background: black;
+	margin-left:10%;
+	margin-right: 10%;
+}
+#body2 {
+	height: 10%;
+	background-color: white;
+	margin-left: 10%;
+	margin-right: 10%;
+	margin-top: 1.2%;
+}
+body {
+	background-color: gray;
+}
+
+#sp {
+	position: relative;
+	left: 130px;
+}
+.menu {
+	height: 30%;
+	background-color: red;
+	text-align: right;
+	padding-top: 10px;
+}
+.body {
+	height: 80%;
+	background-color: gray;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+.footer {
+	height: 5%;
+	background-color: white;
+	margin-left: 20%;
+	margin-right: 20%;
+}
+
+#video-container {
+	margin:2em auto 0;
+	width:500px;
+	padding: 2em;
+	-webkit-box-shadow: 0 1px 10px #D9D9D9;
+	-moz-box-shadow:0 1px 10px #D9D9D9;
+	-ms-box-shadow:0 1px 10px #D9D9D9;
+	-o-box-shadow:0 1px 10px #D9D9D9;
+	box-shadow:0 1px 10px #D9D9D9;
+}
+
+#camera-stream {
+}
+
+.blur {
+	-webkit-filter: blur(3px);
+}
+
+.sepia {
+	-webkit-filter: sepia(1);
+}
+
+.grayscale {
+	-webkit-filter: grayscale(1);
+}
+
+.brightness {
+	-webkit-filter: brightness(2.5);
+}
+
+.contrast {
+	-webkit-filter: contrast(5);
+}
+
+.hue-rotate {
+	-webkit-filter: hue-rotate(125deg);
+}
+
+.invert {
+	-webkit-filter: invert(1);
+}
+
+.saturate {
+	-webkit-filter: saturate(3);
+}
+
+.opacity {
+	-webkit-filter: opacity(0.3);
+}
+
+.sidebar {
+	margin-top:12%;
+    height: 100%;
+    width: 15%; 
+    margin-left: 12%;
+	position: fixed; 
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: gray; /* Black */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+    -webkit-box-shadow: 0 1px 10px #D9D9D9;
+	-moz-box-shadow:0 1px 10px #D9D9D9;
+	-ms-box-shadow:0 1px 10px #D9D9D9;
+	-o-box-shadow:0 1px 10px #D9D9D9;
+	box-shadow:0 1px 10px #D9D9D9;
+}
+
+.sidebar2 {
+	margin-top:12%;
+    height: 100%;
+    width: 15%; 
+    margin-right: 12%;
+	position: fixed; 
+    z-index: 1;
+    top: 0;
+    right: 0;
+    background-color: gray; /* Black */
+    overflow-x: hidden; /* Disable horizontal scroll */
+    padding-top: 20px;
+    -webkit-box-shadow: 0 1px 10px #D9D9D9;
+	-moz-box-shadow:0 1px 10px #D9D9D9;
+	-ms-box-shadow:0 1px 10px #D9D9D9;
+	-o-box-shadow:0 1px 10px #D9D9D9;
+	box-shadow:0 1px 10px #D9D9D9;
+}
+
+.sidebar img {
+	width:100px;
+	height: 100px;
+}

@@ -1,0 +1,108 @@
+.logo{
+	position: absolute;
+	left: 40px;
+	top: 30px;
+}
+
+.logoimg{
+	width: 200px;
+}
+
+.login{
+	position: absolute;
+	right: 50px;
+	top: 50px;
+}
+
+user{
+	font-size: 12px;
+}
+
+pass{
+	font-size: 12px;
+}
+
+.menu{
+	background-color: gray;
+	border-radius: 14px;
+	width: 1200px;
+	height: 50px;
+	position: absolute;
+	top: 170px;
+	left: 150px;
+	word-spacing: 150px;
+	text-transform: uppercase;
+}
+
+a:hover {
+	color: yellow;
+}
+
+a:link {
+	text-decoration: none;
+}
+
+a:visited {
+	text-decoration:none;
+}
+
+table {
+	margin-left: 100px;
+}
+td {
+	padding-right: 20px;
+	padding-left:20px;
+}
+
+.links{
+	font-size: 25px;
+	position: absolute;
+	top: 12px;
+	left: 20px;
+}
+
+.cosul{
+	width: 40px;
+	height: 40px;
+}
+
+.link{
+	color: #f2f2f2;
+}
+
+.link:hover{
+	text-decoration: none;
+	color: #ff9999;
+}
+
+.link:link {
+	text-decoration: none;
+}
+
+.link:visited {
+	text-decoration: none;
+}
+
+.products{
+	width: 1000px;
+	height: 800px;
+	background-color: #d9d9d9;
+	position: absolute;
+	left: 300px;
+	top: 250px;
+}
+
+img {
+	width:150px;
+	height:150px;
+}
+
+.imgsize
+{
+	width: 150px;
+	height: 50px;
+}
+.produs{
+	width: 100px;
+	height: 100px;
+}

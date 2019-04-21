@@ -1,0 +1,64 @@
+td {
+	vertical-align: inherit;
+	display: table-cell;
+	color:black;
+	border: 1px solid black;
+}
+
+/*td#a1 {
+	background-color: red;
+}
+
+td#a2 {
+	background-color: red;
+}
+td#a3 {
+	background-color: red;
+}
+td#a4 {
+	background-color: red;
+}
+td#a5 {
+	background-color: red;
+}
+td#a6 {
+	background-color: red;
+}
+td#a7 {
+	background-color: red;
+}
+td#a8 {
+	background-color: red;
+}
+
+td#a9 {
+	background-color: red;
+}
+
+td#a10 {
+	background-color: red;
+}*/
+
+td#date {
+	background-color: red;
+}
+thead {
+	background-color: red;
+	position: sticky;
+}
+
+.fixed_headers {
+  width: @table_width;
+  table-layout: fixed;
+  border-collapse: collapse;
+ }
+  th { text-decoration: underline; }
+  th, td {
+    padding: 5px;
+    text-align: left;
+  }
+
+td,tr, table {
+	border: 1px solid black;
+	border-collapse: collapse;
+}

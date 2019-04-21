@@ -1,0 +1,1 @@
+<div class="footer"> <p style="text-align: center">Copyright Academy+Plus <?php echo date("Y"); ?></p></div>
